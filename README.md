@@ -1,1 +1,7 @@
-# wnm608_202130_ol1
+# Online-Shopping-Krisewelry-Jewelry
+The main purpose of this project is to create an online store for people who loves jewelry and looking for something one of a kind.
+>**This is implemented using PHP and HTML.**
+
+create a database named **shop** and import the **shop.sql** (in **db** folder) file onto the shop database .
+
+PS: Payment is not implemented
